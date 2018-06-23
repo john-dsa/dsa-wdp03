@@ -1,0 +1,83 @@
+/* 
+    Created on : 31 Mar 2018, 9:00:45 AM
+    Author     : johnb
+*/
+body{
+  margin-top:70px;
+  font-size:16px;
+  padding-top: 50px;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family:Poppins;
+}
+
+p{
+  font-family:Roboto;
+}
+
+/*get rid of navbar background and border*/
+.navbar-default{
+  background:#fff;
+  border:0;
+  font-family:Poppins;
+}
+
+.navbar-brand{
+  font-size:20px;
+  color:#000 !important;
+  font-weight:bold;
+}
+
+#showcaseanim h3{
+  margin-bottom:10px;
+}
+
+#showcaseanim img{
+  width:90%;
+  margin-left:30px;
+}
+
+#showcaseanim .showcase-right{
+  margin-top:90px;
+}
+
+#testimonial{
+  background:#f1f1f1;
+  padding: 50px 0 30px 0;
+  text-align:center;
+  margin-top:40px;
+}
+
+#testimonial p{
+  font-size:18px;
+  font-family: 'Josefin Sans';
+  color:#000;
+}
+
+#testimonial p.customer{
+  font-size:20px;
+  color:#666;
+}
+
+#profmon1 .profmon-right{
+  margin-top:90px;
+}
+
+#profmon2{
+  margin:20px 0 60px 0;
+}
+
+#setgoal{
+  background:url(../images/pic7.jpg);
+  padding:40px;
+  color:#fff;
+  border-top:#333 7px solid;
+  border-bottom:#333 7px solid;
+}
+
+footer{
+  padding:30px;
+}
+
+
